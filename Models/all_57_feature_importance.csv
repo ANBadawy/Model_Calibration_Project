@@ -1,0 +1,58 @@
+feature,importance
+Stddev Kurtosis of Numerical Features,0.065567388
+Maximum Skewness of Numerical Features,0.057650125995270377
+Stddev Skewness of Numerical Features,0.054909687817042904
+Maximum Kurtosis of Numerical Features,0.043631785
+Average Fractal Dimensionality Across Clients of Target,0.040492511
+Average Skewness of Numerical Features,0.037340009
+Average Kurtosis of Numerical Features,0.032566277105535626
+Sampling Rate,0.032126477
+Average Target Missing Values %,0.030635436640050286
+Minimum Skewness of Numerical Features,0.029562448
+Sum of Instances in Clients,0.029020053638589567
+Avg No. Of Stationary Features,0.028967610270805667
+Average Dataset Missing Values %,0.027144841987542013
+Minimum Kurtosis of Numerical Features,0.027030333745663875
+Max. Of Instances in Clients,0.027006611546075778
+Avg No. Of Stationary Features after 1st order,0.026485289487658225
+Min Dataset Missing Values %,0.022920474410638488
+Min. Of Instances in Clients,0.02288663
+Max Target Missing Values %,0.022597125783949408
+Min Target Missing Values %,0.022112196759179397
+Max Dataset Missing Values %,0.022084062547937693
+Avg No. Of Stationary Features after 2nd order,0.019422636902743748
+Stddev No. Of Stationary Features,0.018966146131633745
+Max No. Of Stationary Features after 1st order,0.016812834615248153
+Max No. Of Stationary Features,0.016514563162017007
+Stddev Dataset Missing Values %,0.015060208630683374
+Stddev Target Missing Values %,0.015012420699984388
+Stddev of Instances in Clients,0.013746144859926384
+Stddev No. Of Stationary Features after 1st order,0.012656202543805527
+Max No. Of Significant Lags in Target,0.011859880463986073
+Avg No. Of Significant Lags in Target,0.011792811536600127
+Entropy of Target Stationarity,0.011781406
+Maximum Period of Seasonality Components in Target Across Clients,0.010824676299488693
+Min No. Of Significant Lags in Target,0.009634418
+Min No. Of Stationary Features after 1st order,0.009471246
+Max No. Of Insignificant Lags in Target,0.009233197
+num_clients,0.009100427
+Max No. Of Stationary Features after 2nd order,0.008295937
+Avg No. Of Insignificant Lags in Target,0.008079573
+Min No. Of Insignificant Lags in Target,0.008066383
+Minimum Period of Seasonality Components in Target Across Clients,0.008004699
+No. Of Features,0.007955575
+Min No. Of Stationary Features after 2nd order,0.007698169
+No. Of Numerical Features,0.007226522
+Min No. Of Stationary Features,0.006319902
+Avg No. of Symbols per Categorical Features,0.005427923
+Min. No. Of Symbols per Categorical Features,0.00358532
+Max. No. Of Symbols per Categorical Features,0.003220293
+Stddev No. Of Stationary Features after 2nd order,0.002663492
+No. Of Categorical Features,0.002448191
+Avg. No. Of Seasonality Components in Target,0.00237693
+Max No. Of Seasonality Components in Target,0.002153541
+Min No. Of Seasonality Components in Target,0.001850954
+Stddev No. Of Symbols per Categorical Features,0
+Stddev No. Of Significant Lags in Target,0
+Stddev No. Of Insignificant Lags in Target,0
+Stddev No. Of Seasonality Components in Target,0
